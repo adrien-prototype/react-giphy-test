@@ -11,3 +11,5 @@
 5. Open http://locahost:3000
 
 6. Enjoy 🥳
+
+reference : https://developers.giphy.com
